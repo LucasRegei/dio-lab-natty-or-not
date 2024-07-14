@@ -9,7 +9,6 @@ Uma breve explicação sobre a importância das inteligências artificiais para 
 
 ## 🤖 Tecnologias Utilizadas
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=&logoColor=%233776AB)
-![Copilot](https://img.shields.io/badge/Copilot-000?style=for-the-badge&logo=&logoColor=%2496ED)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=for-the-badge&logo=&logoColor=%2496ED)
 
 ## 🧐 Processo de Criação
